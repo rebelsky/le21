@@ -1,0 +1,100 @@
+- date: 2020-07-27
+  due:
+    - page: /assignments/misc-01.html
+
+- date: 2020-08-31
+  assigned:
+    - page: /assignments/writing-01.html
+  due:
+    - page: /assignments/reading-01.html
+
+- date: 2020-09-01
+  assigned:
+    - page: /assignments/misc-02.html
+      workload: 1 hour
+
+- date: 2020-09-03
+  due:
+    - page: /assignments/writing-01.html
+      workload: 4 hours
+  assigned:
+    - page: /assignments/writing-02.html
+      
+- date: 2020-09-04
+  due:
+    - page: /assignments/misc-02.html
+      workload: 1 hour
+
+- date: 2020-09-07
+  due:
+    - page: /assignments/writing-02.html
+      workload: 3 hours
+  assigned:
+    - page: /assignments/misc-03.html
+    
+- date: 2020-09-08
+  assigned:
+    - page: /assignments/writing-03.html
+
+- date: 2020-09-10
+  assigned:
+    - page: /assignments/misc-04.html
+
+- date: 2020-09-11
+  assigned:
+    - page: /assignments/writing-05.html
+  due:
+    - page: /assignments/misc-03.html
+      workload: 1 hour
+
+- date: 2020-09-14
+  due:
+    - page: /assignments/writing-03.html
+      workload: 4 hours
+
+- date: 2020-09-15
+  due:
+    - page: /assignments/misc-04.html
+      workload: 3 hours
+  assigned:
+    - page: /assignments/writing-04.html
+
+- date: 2020-09-18
+  due:
+    - page: /assignments/writing-04.html
+      workload: 3 hours
+
+- date: 2020-09-22
+  due:
+    - page: /assignments/writing-05.html
+      workload: 5 hours
+
+- date: 2020-09-25
+  due:
+    - page: /assignments/misc-05.html
+      workload: 2 hours
+
+- date: 2020-09-28
+  due:
+    - page: /assignments/misc-06.html
+      workload: 2 hours
+
+- date: 2020-09-29
+  due:
+    - page: /assignments/writing-06.html
+      workload: 2 hours
+
+- date: 2020-10-05
+  due:
+    - page: /assignments/writing-07.html
+      workload: 12 hours
+
+- date: 2020-10-12
+  due:
+    - page: /assignments/writing-08.html
+      workload: 6 hours
+
+- date: 2020-10-19
+  due:
+    - page: /assignments/writing-09.html
+      workload: 6 hours

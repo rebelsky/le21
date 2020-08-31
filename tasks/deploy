@@ -1,0 +1,17 @@
+#!/bin/bash
+
+SEMESTER=2020F
+COURSE=Tutorial
+SITE=public_html/Courses/$COURSE/$SEMESTER/
+REMOTE=rebelsky.cs.grinnell.edu
+
+bundle exec jekyll build
+
+echo $SITE
+
+if [[ $(hostname -s) = turing ]]; then
+  mkdir -p $SITE
+  rsync -rt _site/ $SITE
+else
+  rsync -rtz _site/ $REMOTE:$SITE
+ fi

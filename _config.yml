@@ -1,0 +1,128 @@
+# Jekyll Site settings
+title: LE21
+baseurl: /Courses/Tutorial/2020F
+url: http://rebelsky.cs.grinnell.edu/Courses/Tutorial/2020F
+
+# Set the theme color. Options are blue, green, red, orange, purple, and gray
+color: red
+
+instructor: Samuel A. Rebelsky
+
+instructor_title: Professor Rebelsky
+
+instructor_homepage: https://rebelsky.cs.grinnell.edu/
+
+instructor_email: rebelsky@grinnell.edu
+
+meeting_times: MTuThF 3:00&ndash;4:50 p.m. CDT
+
+section_number: ""
+
+office_hours:
+  - M--F 9:30--10:30 a.m.
+
+partners:
+  - name: Tisha Turk
+    email: turktisha@grinnell.edu
+    role: Writing Lab Liaison
+  - name: Chris Jones
+    email: joneschr@grinnell.edu
+    role: Library Liaison
+  - name: Amanda Wroblewski
+    email: wroblews@grinnell.edu
+    role: CLS Liaison
+
+copyright: |
+  Except as otherwise noted, materials are Copyright &copy; Samuel A. Rebelsky.
+  All rights reserved. 
+
+copyright_message: |
+  Unless specified otherwise elsewhere on this page,
+  this work is licensed under a Creative Commons Attribution 3.0 Unported
+  License. To view a copy of this license, visit
+  <http://creativecommons.org/licenses/by-nc/3.0/> or send a letter to Creative
+  Commons, 543 Howard Street, 5th Floor, San Francisco, California, 94105, USA.
+
+# Be picky about front-matter
+strict_front_matter: true
+
+# Set up collections for course content
+collections:
+  admin:
+    output: false
+
+  assignments:
+    output: true
+    permalink: /assignments/:path.html
+  
+  handouts:
+    output: true
+    permalink: /handouts/:path.html
+  
+  readings:
+    output: true
+    permalink: /readings/:path.html
+
+  resources:
+    output: true
+    permalink: /resources/:path.html
+
+  rubrics:
+    output: true
+    permalink: /rubrics/:path.html
+
+  sandbox:
+    output: true
+    permalink: /sandbox/:path.html
+
+  syllabus:
+    output: true
+    permalink: /syllabus/:path.html
+
+  writing:
+    output: true
+    permalink: /writing/:path.html
+
+# Default layouts
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  
+  - scope:
+      path: ""
+      type: assignments
+    values:
+      link: false
+      layout: assigned
+
+  - scope:
+      path: ""
+      type: readings
+    values:
+      link: true
+      layout: assigned
+
+  - scope:
+      path: ""
+      type: sandbox
+    values:
+      link: true
+      layout: assigned
+
+# Build settings
+exclude:
+  - tasks
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - Makefile
+
+# Plugin Settings
+plugins:
+  - jekyll-bootstrap-sass
+  - jekyll-include-cache
+   
+bootstrap:
+  assets: true

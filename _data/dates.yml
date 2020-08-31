@@ -1,0 +1,90 @@
+- week: Week 0
+  anchor: week00
+  days: 
+    - { date: 2020-07-26 }
+    - { date: 2020-07-27, class: true }
+    - { date: 2020-07-28 }
+    - { date: 2020-07-29 }
+    - { date: 2020-07-30 }
+    - { date: 2020-07-31 }
+    - { date: 2020-08-01 }
+- week: Week 1
+  anchor: week01
+  days:
+    - { date: 2020-08-30 }
+    - { date: 2020-08-31, class: true }
+    - { date: 2020-09-01, class: true }
+    - { date: 2020-09-02 }
+    - { date: 2020-09-03, class: true }
+    - { date: 2020-09-04, class: true }
+    - { date: 2020-09-05 }
+- week: Week 2
+  anchor: week02
+  days:
+    - { date: 2020-09-06 }
+    - { date: 2020-09-07, class: true }
+    - { date: 2020-09-08, class: true }
+    - { date: 2020-09-09 }
+    - { date: 2020-09-10, class: true }
+    - { date: 2020-09-11, class: true }
+    - { date: 2020-09-12 }
+- week: Week 3
+  anchor: week03
+  days:
+    - { date: 2020-09-13 }
+    - { date: 2020-09-14, class: true }
+    - { date: 2020-09-15, class: true }
+    - { date: 2020-09-16 }
+    - { date: 2020-09-17, class: true }
+    - { date: 2020-09-18, class: true }
+    - { date: 2020-09-19 }
+- week: Week 4
+  anchor: week04
+  days:
+    - { date: 2020-09-20 }
+    - { date: 2020-09-21, class: true }
+    - { date: 2020-09-22, class: true }
+    - { date: 2020-09-23 }
+    - { date: 2020-09-24, class: true }
+    - { date: 2020-09-25, class: true }
+    - { date: 2020-09-26 }
+- week: Week 5
+  anchor: week05
+  days:
+    - { date: 2020-09-27 }
+    - { date: 2020-09-28, class: true }
+    - { date: 2020-09-29, class: true }
+    - { date: 2020-09-30 }
+    - { date: 2020-10-01, class: true }
+    - { date: 2020-10-02, class: true }
+    - { date: 2020-10-03 }
+- week: Week 6
+  anchor: week06
+  days:
+    - { date: 2020-10-04 }
+    - { date: 2020-10-05, class: true }
+    - { date: 2020-10-06, class: true }
+    - { date: 2020-10-07 }
+    - { date: 2020-10-08, class: true }
+    - { date: 2020-10-09, class: true }
+    - { date: 2020-10-10 }
+- week: Week 7
+  anchor: week07
+  days:
+    - { date: 2020-10-11 }
+    - { date: 2020-10-12, class: true }
+    - { date: 2020-10-13, class: true }
+    - { date: 2020-10-14 }
+    - { date: 2020-10-15, class: true }
+    - { date: 2020-10-16, class: true }
+    - { date: 2020-10-17 }
+- week: Week 8
+  anchor: week08
+  days:
+    - { date: 2020-10-18 }
+    - { date: 2020-10-19 }
+    - { date: 2020-10-20 }
+    - { date: 2020-10-21 }
+    - { date: 2020-10-22 }
+    - { date: 2020-10-23 }
+    - { date: 2020-10-24 }

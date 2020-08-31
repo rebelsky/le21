@@ -1,0 +1,205 @@
+- topic: Registration Planning
+  abbrev: registration-planning
+  summary: In a new experience for Grinnell Tutorial, we plan for registration before Tutorial begins.
+  subjects:
+    - Introductions
+    - A quick introduction to Tutorial
+    - Exploring liberal education
+    - Some interesting courses
+    - The nitty-gritty details of registration
+  reading:
+    - link: Elements of a Liberal Education
+      subtitle: Grinnell College
+      icon: fa-external-link
+      url: https://catalog.grinnell.edu/content.php?catoid=26&navoid=4400#Elements_of_a_Liberal_Education
+    - link: College-Wide Learning Outcomes
+      subtitle: Grinnell College
+      icon: fa-external-link
+      url: https://www.grinnell.edu/academics/centers-programs/ctla/college-wide
+    - link: Only Connect - The Goals of Liberal Education
+      subtitle: William Cronon
+      icon: fa-external-link
+      url: http://www.williamcronon.net/writing/cronon_only_connect.pdf
+
+- topic: Getting started
+  abbrev: getting-started
+  summary: We kick off Tutorial by reviewing the goals of Grinnell's Tutorial and of this Tutorial.
+  subjects:
+     - Introduction to Tutorial  
+     - Additional goals for this Tutorial
+     - Prep for first assignment
+  reading:
+    - link: Writing in College
+      url: ../writing
+    - link: Forward to the _Grinnell Guide_
+      icon: fa-external-link
+      url: https://www.grinnell.edu/sites/default/files/docs/2020-01/Grinnell%20College%20Guide%20to%20Writing%2C%20Research%2C%20and%20Speaking.pdf
+    - Williams, Chapter 1
+
+- topic: Writing in College
+  abbrev: writing-in-college
+  summary: We discuss some of the issues you may encounter while writing in College.
+  subjects:
+    - Expectations (and their management)
+    - Claims
+    - Ways to improve your writing
+    - Scaffolding
+  reading:
+    - Williams, Chapter 2
+    - link: Class Syllabus
+      url: ../syllabus
+    - link: Class Schedule
+      url: ../schedule
+
+- topic: Looking Backwards, Looking Forwards
+  subjects: 
+    - Components of a Grinnell liberal education.
+    - What requirements does the 21st century impose on liberal education?
+  reading:
+    - link: The Tutorial Turns 40
+      icon: fa-external-link
+      url: http://web.grinnell.edu/Dean/Tutorial/History/Tutorial40.pdf
+    - link: Adoption of the No-Requirements Curriculum
+      icon: fa-external-link
+      url: https://grinco.sharepoint.com/sites/dean/AcadProg/History_ofthe_No-Requirements_Curriculum_Clotfelter.pdf
+
+- topic: Leveraging Your Liberal Learning + Managing Workload
+  subjects:
+    - Guest lecture from CLS
+    - Liberal learning skills in a pandemic
+    - Liberal learning skills post-Grinnell
+    - Working in the seven-week term model
+    - Reading syllabi
+    - Managing your time
+
+- topic: Models of Higher Education
+  subjects:
+    - Models of liberal education
+    - Other models of higher education
+    - Writing - Cohesion
+  reading:
+    - Williams 3---Cohesion
+    - Others TBD
+
+- topic: Models of Higher Education, Continued
+  subjects:
+    - Models of liberal education
+    - Other models of higher education
+    - Assignment planning - interviews
+  reading:
+    - Student essays
+    - Others TBD
+
+- topic: Topic Planning
+  subjects:
+    - Library research
+    - Assessing materials
+    - Exercise---Topic planning
+
+- topic: Academic Honesty
+  subjects:
+    - Why cite?
+    - Assessing materials, revisited
+    - Citation formats
+    - Other issues of academic honesty (collaboration, forging results, etc.)
+    - Exercise---Emphasis
+    - Academic honesty quiz
+  reading:
+    - Academic Honesty Handbook
+    - Williams 4---Emphasis
+
+- topic: Virtual Archive Visit
+  subjects:
+    - The roles of archives
+    - Materials in Grinnell's archive
+    - Exercise---Cohesion
+  reading:
+    - Williams 5---Cohesion
+
+- topic: Bibliographies and Beyond
+  subjects:
+    - Roles of bibliographies
+    - Annotating bibliographies
+    - Exercise---Coherence
+  reading:
+    - Williams 6---Coherence
+   
+- topic: Discussing discussion
+  subjects:
+    - What makes a good discussion?
+    - Planning for leading discussion
+    - Exercise---Concision
+  reading:
+    - Williams 7---Concision
+
+- topic: Structuring sentences
+  subjects:
+    - Sentence structurees
+  reading:
+    - TBD
+
+- topic: Student-led discussions
+  reading:
+    - Determined by discussion leaders
+  subjects:
+    - Discussion 1
+    - Discussion 2
+    - Discussion 3
+
+- topic: Student-led discussions
+  reading:
+    - Determined by discussion leaders
+  subjects:
+    - Discussion 4
+    - Discussion 5
+    - Discussion 6
+    - Discussion 7
+
+- topic: Student-led discussions
+  reading:
+    - Determined by discussion leaders
+  subjects:
+    - Discussion 8
+    - Discussion 9
+    - Discussion 10
+
+- topic: TBD
+
+- topic: Discussion debrief
+  subjects:
+    - Poster presentations
+    - What makes a good discussion? revisited
+
+- topic: Detour---Four Year Planning
+
+- topic: Presentation planning
+
+- topic: TBD
+
+- topic: Student presentations
+  subjects:
+    - Presentation 1
+    - Presentation 2
+    - Presentation 3
+    - Presentation 4
+    - Presentation 5
+
+- topic: Student presentations
+  subjects:
+    - Presentation 6
+    - Presentation 7
+    - Presentation 8
+    - Presentation 9
+    - Presentation 10 
+
+- topic: Peer Editing
+
+- topic: Presentation debrief
+
+- topic: Academic planning
+
+- topic: Time management
+
+- topic: Stress management
+
+- topic: Debrief

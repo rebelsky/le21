@@ -1,0 +1,14 @@
+- title: Home
+  path: /home/
+- title: Schedule
+  path: /schedule/
+- title: Syllabus
+  path: /syllabus/
+- title: Assignments
+  path: /assignments/
+- title: Handouts
+  path: /handouts/
+- title: Writing in College
+  path: /writing/
+- title: Rubrics
+  path: /rubrics/
