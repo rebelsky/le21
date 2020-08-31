@@ -17,7 +17,6 @@ In chapter 1 of _Style: Toward Clarity and Grace_, Joseph M. Williams presents u
 
 Perhaps not so surprisingly, this quotation is one of the few that Williams did not rewrite into more readable prose. Hence, you have the opportunity to play "translator": _To the best of your ability, rewrite that paragraph so that a typical first-year college student could quickly understand it._
 
-I am likely to ask you to share your rewrites.
-
+Please post your rewrite in the "Rewriting exercises" channel, under the thread for this piece.
 
 
