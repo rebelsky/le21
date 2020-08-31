@@ -1,6 +1,7 @@
 ---
 title: Thoughts about electronic mail
 section: handouts
+summary: A few quick notes about ways in which I use (and do not use) email.
 ---
 # {{ page.title }}
 
