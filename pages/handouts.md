@@ -8,6 +8,6 @@ Even more information to help you succeed in Tutorial and beyond.
 
 {% assign handouts = site.handouts | sort: "title" %}
 {% for handout in handouts %}
-<a href="{{ handout.path }}">{{ handout.title }}</a>
+<a href="..{{ handout.url }}">{{ handout.title }}</a>
   : {{ handout.summary }}
 {% endfor %}
