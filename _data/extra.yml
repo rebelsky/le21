@@ -12,6 +12,8 @@
   assigned:
     - page: /assignments/misc-02.html
       workload: 1 hour
+  due:
+    - page: /assignments/reading-02.html
 
 - date: 2020-09-03
   due:

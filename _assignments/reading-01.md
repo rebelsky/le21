@@ -9,7 +9,7 @@ collaboration: |
   You may consult other students as appropriate. If you receive
   help from anyone, make sure to acknowledge them in your responses.
 submitting: |
-  Please post to the appropriate channel on our Team.
+  Please post to the appropriate channels on our Team.
 link: true
 ---
 **Background**: One of the primary tasks of Grinnell's _Tutorial_
