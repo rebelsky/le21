@@ -55,6 +55,10 @@ collections:
     output: true
     permalink: /assignments/:path.html
   
+  exercises:
+    output: true
+    permalink: /exercises/:path.html
+  
   handouts:
     output: true
     permalink: /handouts/:path.html
@@ -93,6 +97,13 @@ defaults:
   - scope:
       path: ""
       type: assignments
+    values:
+      link: false
+      layout: assigned
+
+  - scope:
+      path: ""
+      type: exercises
     values:
       link: false
       layout: assigned
