@@ -72,29 +72,30 @@
     - Reading syllabi
     - Managing your time
 
+- topic: Library research and beyond
+  subjects:
+    - Library research (w/Library partner)
+    - Assessing materials
+    - Topic planning
+
 - topic: Models of Higher Education
   subjects:
     - Models of liberal education
     - Other models of higher education
-    - Writing - Cohesion
+    - Assignment planning - interviews (w/CLS partner)
   reading:
-    - Williams 3---Cohesion
+    - Student essays
     - Others TBD
 
 - topic: Models of Higher Education, Continued
   subjects:
     - Models of liberal education
     - Other models of higher education
-    - Assignment planning - interviews
-  reading:
-    - Student essays
-    - Others TBD
-
-- topic: Topic Planning
-  subjects:
-    - Library research
-    - Assessing materials
+    - Writing---Cohesion
     - Exercise---Topic planning
+  reading:
+    - Williams 3---Cohesion
+    - Others TBD
 
 - topic: Academic Honesty
   subjects:
@@ -102,8 +103,8 @@
     - Assessing materials, revisited
     - Citation formats
     - Other issues of academic honesty (collaboration, forging results, etc.)
-    - Exercise---Emphasis
     - Academic honesty quiz
+    - Exercise---Emphasis
   reading:
     - Academic Honesty Handbook
     - Williams 4---Emphasis
@@ -131,6 +132,8 @@
     - Exercise---Concision
   reading:
     - Williams 7---Concision
+    - link: Short notes on discussion
+      url: ../handouts/discussion
 
 - topic: Structuring sentences
   subjects:
