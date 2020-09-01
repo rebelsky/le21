@@ -20,6 +20,8 @@
   due:
     - page: /assignments/writing-01.html
       workload: 4 hours
+    - page: /assignments/reading-03.html
+      workload: 2 hours
   assigned:
     - page: /assignments/writing-02.html
       
