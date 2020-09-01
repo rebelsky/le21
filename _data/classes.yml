@@ -38,22 +38,27 @@
 
 - topic: Writing in College
   abbrev: writing-in-college
-  summary: We discuss some of the issues you may encounter while writing in College.
+  summary: We continue to discuss some of the issues you may encounter while writing in College.
   subjects:
+    - Practice rewriting
+    - About this Tutorial, revisited
     - Expectations (and their management)
     - Claims
     - Ways to improve your writing
     - Scaffolding
   reading:
     - Williams, Chapter 2
-    - link: Class Syllabus
+    - link: Class syllabus
       url: ../syllabus
-    - link: Class Schedule
+    - link: Class schedule
       url: ../schedule
+    - link: Additional class handouts
+      url: ../handouts/
 
 - topic: Looking Backwards, Looking Forwards
   subjects: 
     - Components of a Grinnell liberal education.
+    - Some history of liberal education.
     - What requirements does the 21st century impose on liberal education?
   reading:
     - link: The Tutorial Turns 40
@@ -62,6 +67,12 @@
     - link: Adoption of the No-Requirements Curriculum
       icon: fa-external-link
       url: https://grinco.sharepoint.com/sites/dean/AcadProg/History_ofthe_No-Requirements_Curriculum_Clotfelter.pdf
+    - link: How Can We Understand "Liberal Arts Education"?
+      icon: fa-external-link
+      url: https://mellon.org/news-blog/articles/how-can-we-understand-liberal-arts-education/
+    - link: What should it mean to be liberally educated in the 21st century?
+      icon: fa-external-link
+      url: https://www.insidehighered.com/blogs/higher-ed-gamma/what-should-it-mean-be-liberally-educated-21st-century
 
 - topic: Leveraging Your Liberal Learning + Managing Workload
   subjects:
