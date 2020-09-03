@@ -67,9 +67,6 @@ intensify the focus? ___
 
 **Basic skills**
 
-How well does the author use appropriate skills in grammar, punctuation,
-spelling, and idioms? ___
-
 How well does the author use information to support the paper's
 central claim? ___
 
