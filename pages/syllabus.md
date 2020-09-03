@@ -79,6 +79,10 @@ will work together to find a solution.
 You can find additional information on my approaches to
 accommodations in [an appendix to this syllabus](../syllabus/accommodations).
 
+### Religious observance policy
+
+Grinnell College acknowledges and embraces the religious diversity of its faculty, students and staff.  Faculty and students share responsibility to support members of our community who observe religious holidays.  Students will provide faculty members with reasonable notice of the dates of religious holidays on which they will be absent, and this notice would be expected to occur no later than the third week of the term.  Faculty members will make reasonable efforts to accommodate students who need to be absent from examinations or class due to religious observance.  Students are responsible for completing any part of the course work, including examinations, they have missed due to religious observance, and faculty members are responsible for giving them the opportunity to do so.  (_Approved by the Faculty, September 21, 2009_)
+
 ### Textbooks / references
 
 Tutorial, more than most courses, mixes topical learning with the
