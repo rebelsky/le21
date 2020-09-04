@@ -41,7 +41,7 @@ That is me, your fellow Tutorial students, our Writing Mentors, and
 the liaisons.
 
 **Target outcomes**: This assignment relates to the following [Tutorial
-objectives](../handouts/outcomes).
+objectives](../handouts/objectives).
 
 * 2\. Tutorial helps students develop critical reading skills through close reading of texts and analysis of materials.
 * 2e\. Assess the credibility of a text in terms of its methodology, evidence, reasoning, and sources

@@ -43,7 +43,7 @@ That is me, your fellow Tutorial students, our Writing Mentors, and
 the liaisons.
 
 **Target outcomes**: This assignment relates to the following [Tutorial
-objectives](../handouts/outcomes).
+objectives](../handouts/objectives).
 
 * 1\. Tutorial has been designated a writing-intensive course that introduces students to college-level writing.
 * 2c\. Understand how scholarly writing differs from popular writing and the conventions appropriate to their audience, purpose, and medium
