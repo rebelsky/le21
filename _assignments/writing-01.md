@@ -136,3 +136,9 @@ class.
 3. On Friday, we will discuss the essays and related issues that arose
 in our work and reading.
 
+**Additional notes**
+
+* Please email me your essay as a Microsoft Word document.
+* Make sure that your essay has a title.
+* Make sure that your essay includes the traditional header: author, class, instructor, assignment, date (on separate lines).
+* Make sure to number your pages.
