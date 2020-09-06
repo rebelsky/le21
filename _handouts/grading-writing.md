@@ -2,6 +2,8 @@
 title: On the grading of writing
 summary: Approaches to grading
 ---
+# {{ page.title }}
+
 As you progress through Grinnell, you will find that different faculty members have different perspectives on how to grade writing and what makes a particular essay deserve a particular grade. This short document is my attempt to describe my own perspective and to prepare you for the comments and grades you will soon receive.
 
 When I grade your essays, I tend to look for three things: syntax, style, and substance. An ideal essay has correct syntax, elegant style, and powerful substance. Average essays (B or so) tend to be adequate in all three categories. Weak essays fail to satisfy me in at least one category. Outstanding essays have correct syntax and excel in style, substance, or both.
