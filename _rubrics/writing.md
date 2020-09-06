@@ -49,8 +49,8 @@ Reviewer:
 What, in your view, is the _central point_ of the paper?  You may copy it
 from the paper if you find it appropriate to do so.
 
-Write a sentence that summarizes each paragraph.  Again, if you wish to
-copy sentences, you may do so.
+Write a sentence that summarizes each additional paragraph.  Again,
+if you wish to copy sentences, you may do so.
 
 **The point of the paper**
 
@@ -79,7 +79,7 @@ How well does the writing reveal a narrative voice that is engaged
 intellectually with the topic of the paper? ___
 
 How well does the writing acknowledge and grapple with the complexity
-ofo the material? ___
+of the material? ___
 
 **Longer questions**
 
