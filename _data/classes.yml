@@ -100,17 +100,21 @@
     - Other models of higher education
     - Assignment planning - interviews (w/CLS partner)
   reading:
-    - Student essays
-    - Others TBD
+    - Bok, overview
+    - Bok, Chapter 1
+    - Bok, notes
+    - Bok, index
+    - Short notes on Great Books
+    - Short notes on Columbia Common Core
 
 - topic: Models of Higher Education, Continued
   subjects:
     - Models of liberal education
     - Other models of higher education
-    - Writing---Cohesion
-    - Exercise---Topic planning
   reading:
-    - Williams 3---Cohesion
+    - Student essays
+    - Bok, Chapter ?
+    - Various curricula
     - Others TBD
 
 - topic: Academic Honesty
@@ -120,34 +124,34 @@
     - Citation formats
     - Other issues of academic honesty (collaboration, forging results, etc.)
     - Academic honesty quiz
-    - Exercise---Emphasis
+    - Writing---Cohesion
   reading:
     - Academic Honesty Handbook
-    - Williams 4---Emphasis
+    - Williams 3---Cohesion
 
 - topic: Virtual Archive Visit
   subjects:
     - The roles of archives
     - Materials in Grinnell's archive
-    - Exercise---Cohesion
+    - Exercise---Emphasis
   reading:
-    - Williams 5---Cohesion
+    - Williams 4---Emphasis
 
 - topic: Bibliographies and Beyond
   subjects:
     - Roles of bibliographies
     - Annotating bibliographies
-    - Exercise---Coherence
+    - Exercise---Cohesion
   reading:
-    - Williams 6---Coherence
+    - Williams 5---Cohesion
    
 - topic: Discussing discussion
   subjects:
     - What makes a good discussion?
     - Planning for leading discussion
-    - Exercise---Concision
+    - Exercise---Coherence
   reading:
-    - Williams 7---Concision
+    - Williams 6---Coherence
     - link: Short notes on discussion
       url: ../handouts/discussion
 
