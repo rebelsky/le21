@@ -33,7 +33,7 @@ education with one and the future of liberal education with another.
 Each conversation should take approximately thirty minutes and you
 will record/transcribe the conversation using
 [Otter.ai](https://otter.ai/login).  Afterwards, you will choose a
-portion of each conversation (approximately 250-500 words) that you
+portion of each conversation (approximately 400-500 words) that you
 think will be of value to others, "clean up" that portion, and add a
 short introduction describing the interviewee.  
 
@@ -96,7 +96,7 @@ should also (c) take notes during the interview.
 4. Review your notes and transcript from each interview.
 
 5. Identify what part of each interview you think would be most useful
-to report to others.  (Approximately 500 words per interview.)
+to report to others.  (Approximately 400-500 words per interview.)
 
 6. Determine whether you need any additional information and obtain
 that information.
