@@ -17,7 +17,8 @@ liberal education.  It's time to expand our experience by looking
 backward once again to explore the history of some models of liberal
 education.
 
-**The Basics**: 
+**The Basics**: You will read some sources, skim others, and post
+notes.
 
 _A. Read the following:_
 
