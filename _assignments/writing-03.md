@@ -16,10 +16,10 @@ link: true
 **Background**: As I noted, this semester we will be looking both 
 back and looking ahead.  We look back to look at prior models
 of liberal education and Grinnell's specific approaches to liberal
-education (embodied by the open curriculum, Tutorial, Scholars'
-Convocation, and Tutorial).  We look ahead to what a liberal education
-might ential in the 21st century, particularly given the events of
-the past year.
+education (embodied by the individually advised curriculum, Tutorial,
+Scholars' Convocation, and Tutorial).  We look ahead to what a
+liberal education might ential in the 21st century, particularly
+given the events of the past year.
 
 While there are articles about these issues, we also gain some insight 
 by talking to others.  These conversations will deepen our understanding,
@@ -148,7 +148,7 @@ will fit into our edited anthology.
 
 Our communal goals in choosing interview subjects are (a) to obtain
 a variety of perspectives on these issues, (b) to understand the
-roles of Tutorial, the open curriculum, Scholars Convocation, and
+roles of Tutorial, the individually curriculum, Scholars Convocation, and
 self governance across the past fifty years, and (c) to gather some
 new and unexpected suggestions for the future of liberal education.
 
