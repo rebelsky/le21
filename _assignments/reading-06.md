@@ -18,7 +18,7 @@ for each other.  We will also look into other models of higher education.
 
 **The Basics**: 
 
-1. Read your assigned chapter of Derek Bok's _Higher Expectations_.
+1. Read your assigned chapter of Derek Bok's _Higher Expectations_.  Ch 2: NS.  Ch 3: HU.  Ch 4: CS.  Ch 5: HB.  Ch 6: MY. Ch 7: ZF.  Ch 8: MW.  Ch 9: TJ.  Ch. 10: TM. Preface and Conclusion: JP.
 
 2. Find the requirements for three different kinds of Colleges, such as
 
