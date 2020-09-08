@@ -48,6 +48,9 @@
 - date: 2020-09-10
   assigned:
     - page: /assignments/misc-04.html
+  due:
+    - page: /assignments/reading-06.html
+      workload: 2 hours
 
 - date: 2020-09-11
   assigned:
