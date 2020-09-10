@@ -7,7 +7,7 @@ summary: |
 ---
 # {{ page.title }}
 
-_{{ page.summary }}
+<em>{{ page.summary }}</em>
 
 ## Preliminary Dialogue
 
