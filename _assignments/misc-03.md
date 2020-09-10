@@ -8,7 +8,7 @@ collaboration: |
   consult other students in the class as you review the course materials. If you
   receive help from anyone, make sure to cite them in your responses. 
 submitting: |
-  Please enter your answers in the appropriate channels on Teams
+  Be prepared to share your topics with your classmates.
 link: true
 ---
 **Background**: For much of the rest of the semester, you will work
@@ -36,10 +36,6 @@ to the broader goals of the Tutorial, (b) potential resources you can
 rely upon in working with the material, and (c) likely depth of
 the topic.
 
-4. Pick two and post them to the Topics channel on Teams.  You may also
-pick a new topic to post, but be prepared to discuss it with Prof.
-Rebelsky.
-
 ---
 
 **Some potential topics**
@@ -55,3 +51,35 @@ Rebelsky.
 * Anticipatory: Extended narratives on new components of liberal
   education (race, communication beyond text/talking, wellness,
   globalism/globalization, etc.)
+
+---
+
+**Some topics suggested by students**
+
+* What can the liberal learning model take from the military education model?
+* What is the role of sports in a liberal education?
+    * Effects on the broader institution/community (e.g., at SLACs)
+    * Differennt learning outcomes between team athletes and other
+      students?  (What does participating bring?)
+* Relationships between sports and education at Grinnell.
+* Liberal education beyond the U.S.
+* Looking ahead: What responsibilities do liberal arts colleges have to
+  prepare students for globalization?
+* How does a Grinnell education prepare you for the job market (as compared
+  to the broader liberal education topics Amanda raised)?
+* How have models of liberal education changed over the past century?
+* How will the present political climate in the US affect the future
+  of liberal education?
+* How can/does liberal education prepare students for a world in which
+  things are changing at a much more rapid pace?
+* What is the role of residential life in liberal education?
+* The First-Year Experience, Grinnell's fifth pillar of liberal education.
+* How open is "open"?  Four models of the open curriculum.
+* The same name, different expectations.  The evolution of Grinnell's
+  Tutorial.
+* How does (or should) liberal education employ technology?
+* What should a liberally educated person know about technology?
+* Liberal education in the new golden age of information.
+* Learning through governing.  The evolving roles of self-governance in building liberally educated citizens at Grinnell.
+* An online residential education: Student experiences of Grinnell e ducation in a time of pademic.
+
