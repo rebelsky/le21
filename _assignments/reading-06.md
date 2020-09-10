@@ -57,6 +57,12 @@ the liaisons.
 **Target outcomes**: This assignment relates to the following [Tutorial
 objectives](../handouts/objectives).
 
+* 2d\. Identify how a work of scholarship participates in an ongoing conversation about a particular topic.
+* 3a\. Prepare comments and questions about readings or other assignments.
+* 3b\. Contribute to a discussion by responding directly to questions or statements from their instructor or their classmates.
+* 5d\. Demonstrate basic ability to incorporate other people’s words and ideas into their own writing by paraphrasing, summarizing, quoting (block quotes and snippets), and responding to an idea or argument.
+& 7c\. Suggest ways in which liberal education might (need to) change to adapt to America and the world in the 21st century.
+
 **Anticipated uses**: We will use the results of this exercise in
 our discussion of the liberal arts.  You may use the ideas in writing
 your longer research paper.
