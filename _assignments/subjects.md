@@ -8,7 +8,7 @@ came to mind as I reflect on people and the topics you have raised.)
 Note that I am still in the process of confirming that these folks
 are willing to be interviewed.
 
-Jon Andelson '70
+Jon Andelson '70 (past)
   : Andelson is both an alum and a faculty member.  As someone who
     was a student at Grinnell when the Tutorial and open curriculum
     were first created and as a faculty member soon after their creation,
@@ -18,7 +18,7 @@ Jon Andelson '70
     have strong opinions on how our location shapes and might shape
     a Grinnell edcation.
 
-Tim Arner
+Tim Arner (past, future)
   : Arner is a faculty member in English and is currently serving
     as an Associate Dean.  As Associate Dean, Arner has taken the
     lead in developing Tutorial.
@@ -33,7 +33,7 @@ George Drake '56
     insights about Grinnell education and the future of liberal
     education.
 
-David Feldman '70
+David Feldman '70 (two; past and future)
   : Feldman graduated in 1970 with Grinnell's first independent
     major.  He is an active alumnus and is also the author of
     the "Imponderables" series of books.  He could be a good
@@ -64,18 +64,18 @@ Andy Hamilton '85
     is likely to provide insights based on his experience and his
     roles.
 
-Anne Harris
+Anne Harris (yes)
   : Harris is President of Grinnell College.  It is clear that 
     Harris' vision is one of the reasons chose her to lead Grinnell.
     Harris might also be useful in providing an outsider's view
     of the primary components of a Grinnell education.
 
-Jen Jacobsen '95
+Jen Jacobsen '95 (either)
   : As a student, Jacobsen worked with historian Al Jones on
     _Pioneering_, a history of Grinnell.  Jacobsen also served
     as the College's Student Wellness coordinator for a number
-    of years and is now assessing the new First Year Experience
-    course.  I learn something from Jen each time we talk, and
+    of years and is now assessing the new First Year Experience.
+    I learn something from Jen each time we talk, and
     I expect she'd have thoughtful things to say about the past
     and the future.
 
@@ -92,12 +92,6 @@ David Lopatto
     that he will have unique insights on Grinnell's past and on 
     modern liberal education.
 
-Elaine Marluff
-  : Marzluff is Acting Dean of Grinnell College and Breid-Mcfarland 
-    Professor of Science.  As Dean, Marzluff is responsible for the
-    academic program at Grinnell.  Marzluff also has more than
-    twenty years of experience teaching at Grinnell.
-
 Celeste Miller
   : Miller is Associate Professor of Theatre and Dance and is our
     lead faculty member in Dance.  In that role, Miller is likely
@@ -105,7 +99,7 @@ Celeste Miller
     perhaps including the (understated) roles of the arts and of
     non-textual communication in modern liberal education.
 
-Wayne Moyer
+Wayne Moyer (past, might be able to pushed toward future)
   : Moyers is one of Grinnell's longest-serving faculty members, having
     started her as an instructor in 1972.  He's is also former
     director of the College's Rosenfield program.  Moyer is likely
@@ -125,7 +119,7 @@ Nino Parker '07
     about his own time at Grinnell are also likely to serve
     us well.
 
-Sarah J. Purcell '92
+Sarah J. Purcell '92 (past)
   : Purcell is L F Parker Professor of History and an alumna of
     Grinnell.  Purcell has served a wide variety of roles, including
     College Parliamentarian and Director of the Rosenfield program.
@@ -142,7 +136,7 @@ Henry Rietz '89
     Rietz is likely to provide some insight as the to roles they
     might play in the future.
 
-Fredo Rivera '06
+Fredo Rivera '06 (past)
   : Rivera is a member of the Art History faculty and an alumnus
     fro the class of 2006.  In my experiences with Fredo (primarily
     as a faculty member), I have found him deeply thoughtful 
@@ -174,7 +168,7 @@ Maure Smith-Benanti
     course that is likely to become the fifth component of a
     Grinell education.
 
-Joyce Stern '91
+Joyce Stern '91 (past, future)
   : Stern serves as Dean for Student Success and Academic Advising.
     In that role, Stern has primary responsibility for Tutorial.
     As Dean for Student Success, Stern can also provide insight on
@@ -183,19 +177,19 @@ Joyce Stern '91
     education and how they and their roles have changed in the past
     thirty years.
 
-Susan Sanning
+Susan Sanning (either)
   : Sanning is Associate Dean & Director of Service & Social Innovation
     in the Center for Careers, Life, and Service (CLS).  Sanning has
     deep insights on the roles of community service (and more) in 
     education and reflects regularly on the relationship between
     college education and post-graduate outcomes.
 
-Tisha Turk
+Tisha Turk (either, prefers future)
   : Turk runs Grinnell's Center for Writing, Reading, and Speaking
     and is likely to have valuable views on Tutorial (looking back)
     and on academic skills for the future (looking ahead).
 
-Carle VanWilligen
+Carlie VanWilligen (either/both)
   : VanWilligen is Director of Institutional Research at Grinnell.
     In that role, she has done more with data about Grinnell than
     almost anyone else I know.  I do not know what insights she
