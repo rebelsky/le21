@@ -58,6 +58,9 @@
   due:
     - page: /assignments/misc-03.html
       workload: 1 hour
+  due:
+    - page: /assignments/reading-07.html
+      workload: 1 hour
 
 - date: 2020-09-14
   due:

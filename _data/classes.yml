@@ -124,7 +124,9 @@
     - Academic honesty quiz
     - Writing---Cohesion
   reading:
-    - Academic Honesty Handbook
+    - link: Grinnell's Academic Honesty handbook
+      url: https://www.grinnell.edu/sites/default/files/docs/2020-08/2020-21_Academic_Honesty.pdf
+      icon: fa-external-link
 
 - topic: Virtual Archive Visit
   subjects:
