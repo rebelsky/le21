@@ -41,7 +41,7 @@ continue reading your paper.
 
 **Citation Guidelines**: Use APA style.
 
-**Target outcomes**: This assignment relates to the [Tutorial
+**Target outcomes**: This assignment relates to the following [Tutorial
 learning objectives](../handouts/objectives).
 
 * 1a. Employ a deliberate and iterative writing process that includes brainstorming, planning, gathering evidence, drafting, and revising
@@ -66,10 +66,7 @@ I don't have a thesis yet. What do I do?
 Why do I have to use sources in four different ways?
   : The College expects every Tutorial professor to give his or her tutees an assignment in which they write a paper that demonstrates the four kinds of use. I'd rather have you use materials in context than do an independent exercise.
 
-Do I have to keep the citations in my introduction when I revise it for the final version of my paper?
-  : No.  But you may find that it is useful to do so.
-
-Will we be doing another editing exercise with this?
+Will we be doing another editing exercise with this assignment?
   : Of course.
 
 I've never had to write a multi-paragraph introduction before. What do I do?
