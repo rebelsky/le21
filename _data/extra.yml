@@ -72,6 +72,8 @@
   due:
     - page: /assignments/misc-04.html
       workload: 3 hours
+    - page: /assignments/reading-09.html
+      workload: 1 hour
   assigned:
     - page: /assignments/writing-04.html
 
