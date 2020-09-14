@@ -15,7 +15,7 @@ purposes: |
 2. Click on the A with a pencil at the lower-left of the chat.  That
 should open an editing area.
 
-3. Copy the sentences that appear below into editng area.
+3. Copy the sentences that appear below into editing area.
 
 4. Boldface the actor and italicize the action.  Note that you should not
 focus on the subjects and verbs; rather, your goal is to identify the
