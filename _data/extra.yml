@@ -77,10 +77,17 @@
   assigned:
     - page: /assignments/writing-04.html
 
+- date: 2020-09-17
+  due:
+    - page: /assignments/reading-10.html
+      workload: 1 hour
+
 - date: 2020-09-18
   due:
     - page: /assignments/writing-04.html
       workload: 3 hours
+    - page: /assignments/misc-05.html
+      workload: 2 hours
 
 - date: 2020-09-22
   due:
@@ -89,12 +96,12 @@
 
 - date: 2020-09-25
   due:
-    - page: /assignments/misc-05.html
+    - page: /assignments/misc-06.html
       workload: 2 hours
 
 - date: 2020-09-28
   due:
-    - page: /assignments/misc-06.html
+    - page: /assignments/misc-07.html
       workload: 2 hours
 
 - date: 2020-09-29

@@ -1,8 +1,8 @@
 ---
-title: Miscellaneous Assignment 6
-subtitle: Detailed paper outline
+title: Miscellaneous Assignment 7
+subtitle: Discussion diagram
 summary: |
-  Outline your paper.
+  Draw a diagram.
 collaboration: |
   Each student should submit their own responses to this assignment. You may
   consult other students in the class as you review the course materials. If you
