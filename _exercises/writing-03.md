@@ -18,13 +18,14 @@ excess verbiage.
 
 2. You have been assigned a group of three or four members.  One member
 of that group will start a meeting in the _Conversations_ channel on 
-teams and invite the other members.  The other members should join that
-channel.
+Teams and invite the other members.  The other members should join that
+meeting (whether or not they were invited).
 
-3. Post your paragraphs to the channel.
+3. Post your paragraphs to the _Rewriting Exercises_ channel.
 
 4. Discuss similarities and differences in your rewrites.  (Yes, it's
-a dreaded "compare and contrast" exercise!)
+a dreaded "compare and contrast" exercise!)  You need only read
+your group's rewrites.
 
 5. Be prepared to share a favorite rewrite and comments on what you 
 took from this exercise.
