@@ -21,9 +21,8 @@ of the principles of style.
 **Special Characteristics**: Your introduction must include
 
 * at least one block quotation;
-* at least one short quotation;
-* at least one summary or paraphrase of another piece of writing;
-* at least one citation of any idea not covered by the previous three cases.
+* at least one short quotation; and
+* at least one summary or paraphrase of another piece of writing.
 
 **Purposes**: I intend this assignment and your work for the assignment to provide a variety of benefits. In particular, I expect that they will
 
@@ -63,8 +62,8 @@ Wow.  That's a lot for one little introduction, isn't it?
 I don't have a thesis yet. What do I do?
   : I realize that we are fairly early in the research process. However, I also know from experience that most students more successfully study a topic if (1) they begin with some reasonable thesis and (2) they are prepared to revise that thesis if the materials guide them in a different direction. Hence, you must come up with a thesis for this introduction.
 
-Why do I have to use sources in four different ways?
-  : The College expects every Tutorial professor to give his or her tutees an assignment in which they write a paper that demonstrates the four kinds of use. I'd rather have you use materials in context than do an independent exercise.
+Why do I have to use sources in three different ways?
+  : The College expects every Tutorial professor to give his or her tutees an assignment in which they write a paper that demonstrates the four kinds of use. I'd rather have you use materials in context than do an independent exercise.  I've also decided that the difference between "using ideas" and paraphrasing or summarizing is vague enough that I'm not asking you to differentiate.
 
 Will we be doing another editing exercise with this assignment?
   : Of course.
