@@ -135,21 +135,22 @@
   reading:
     - Williams 3---Cohesion
 
-- topic: Bibliographies and Beyond
-  subjects:
-    - Roles of bibliographies
-    - Annotating bibliographies
-  reading:
-    - Williams 4---Emphasis
-   
 - topic: Discussing discussion
   subjects:
     - What makes a good discussion?
     - Planning for leading discussion
   reading:
-    - Williams 5---Cohesion
+    - Interviews
+    - Williams 4---Emphasis
     - link: Short notes on discussion
       url: ../handouts/discussion
+   
+- topic: Bibliographies and Beyond
+  subjects:
+    - Roles of bibliographies
+    - Annotating bibliographies
+  reading:
+    - Williams 5---Cohesion
 
 - topic: Structuring sentences
   subjects:
