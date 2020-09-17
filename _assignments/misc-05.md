@@ -32,9 +32,10 @@ and the questions you would like me to ask.
 that you think will ground a productive discussion.  Post links to those
 readings in a channel to be named.
 
-3. Post preliminary questions about those readings for your classmates.
-It is fine if your preliminary question resembles my traditional
-"Post two points you'd like to remember from the discussions."
+3. Create threads in the _Paper Topics_ thread with questions about
+those readings for your classmates.  It is fine if your question
+resembles my traditional "Post two points you'd like to remember
+from the discussions."
 
 4. Prepare the materials to lead discussion.
 
