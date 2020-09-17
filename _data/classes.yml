@@ -92,7 +92,7 @@
     - Topic planning
     - Academic honesty "quiz"
   reading:
-    - _The Craft of Research_ (3rd), Chapters 5&6
+    - _TBD_
 
 - topic: Models of Higher Education
   subjects:
@@ -135,61 +135,64 @@
   reading:
     - Williams 3---Cohesion
 
-- topic: Discussing discussion
+- topic: Communication
   subjects:
-    - What makes a good discussion?
-    - Planning for leading discussion
+    - Interviews
+    - Annotating bibliographies
+    - Cohesion exercise
   reading:
     - Interviews
     - Williams 4---Emphasis
+   
+- topic: Discussing discussion (and more)
+  subjects:
+    - What makes a good discussion?
+    - Planning for discussions
+    - Cohesion exercise, revisited
+    - Bibliographies
+  reading:
     - link: Short notes on discussion
       url: ../handouts/discussion
-   
-- topic: Bibliographies and Beyond
-  subjects:
-    - Roles of bibliographies
-    - Annotating bibliographies
-  reading:
-    - Williams 5---Cohesion
 
-- topic: Structuring sentences
+- topic: On Writing, revisited
   subjects:
-    - Sentence structurees
+    - Sentence structures
   reading:
-    - TBD
+    - _TBD_
 
-- topic: Student-led discussions
+- topic: Student-led discussions&emdash;Community
   reading:
     - Determined by discussion leaders
   subjects:
     - Discussion 1
     - Discussion 2
-    - Discussion 3
 
-- topic: Student-led discussions
+- topic: Student-led discussionse&emdash;Comparisons
   reading:
     - Determined by discussion leaders
   subjects:
+    - Discussion 3
     - Discussion 4
     - Discussion 5
     - Discussion 6
-    - Discussion 7
 
-- topic: Student-led discussions
+- topic: Student-led discussions&emdash;Technology and Sports
   reading:
     - Determined by discussion leaders
   subjects:
+    - Discussion 7
     - Discussion 8
     - Discussion 9
     - Discussion 10
 
-- topic: TBD
+- topic: Pause for breath
 
 - topic: Discussion debrief
   subjects:
     - Poster presentations
     - What makes a good discussion? revisited
   reading:
+    - Williams 5---Cohesion
     - Williams 6---Coherence
 
 - topic: Detour---Four Year Planning
