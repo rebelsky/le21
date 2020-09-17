@@ -42,7 +42,7 @@ obtain some of them. You certainly need not read any of the sources.
   collections of information, other kinds of Web pages, and so on and
   so forth.
 
-Please list your potential sources in *Chicago* format.
+Please list your potential sources in *Chicago Notes and Bibliography* style.
 
 **Where to start**:
 I'd strongly recommend that you make an appointment with a research librarian for help. When you make the appointment, you should let the librarian know your topic. You should also let him or her know the details of this assignment, which is available on the World Wide Web at http://rebelsky.cs.grinnell.edu/Tutorial/2020F/Assignments/misc-04.html
