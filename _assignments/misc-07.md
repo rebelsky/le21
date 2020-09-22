@@ -26,7 +26,7 @@ should represent the flow and relationship of ideas in the discussion.
 Your diagram should have the following characteristics:
 
 * Draw a "bubble" for each non-trivial utterence. That bubble should document the key point of the utterence and the type of utterence. (question, fact, expansion of prior idea, etc.) You should represent the point textually. It is up to you how you represent the type of utterence; you might use shape, color, text, or something else.
-* You can choose whether or not to represent utterences from students and from the instructor differently.
+* You can choose whether or not to represent utterences from the participants and from the discussion leader differently.
 * Connect utterences in sequence by a solid line.
 * When an utterence does not directly relate to the immediately previous utterence, draw an X through the solid line.
 * Connect utterences that build upon earlier utterences by a dotted line.
@@ -64,3 +64,12 @@ own creativity in designing and creating the diagram.
 * To encourage you to listen more carefully to classmates.
 * To give you experience thinking in a different form (visually, in addition to verbally).
 
+---
+
+**Acknowledgements:** I wrote the original version of this assignment
+in June 2005 as part of a Grinnell College workshop on Oral
+Communication.  I received helpful feedback on the assignment from
+my peers in that workshop.  In writing the assignment I was inspired,
+in part, by a separate speech by Jon Chenette on the roles of
+non-verbal communiation in the liberal arts.  The assignment has
+evolved over the years since then.
