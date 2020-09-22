@@ -154,20 +154,25 @@
     - link: Short notes on discussion
       url: ../handouts/discussion
 
-- topic: On Writing, revisited
+- topic: A pause for breath
   subjects:
-    - Sentence structures
+    - Bibliographies, revisited
+    - On writing
+    - Exercise in emphasis
   reading:
-    - _TBD_
+    - _No reading_
 
-- topic: Student-led discussions&emdash;Community
+- topic: Class Cancelled
+
+- topic: Student-led discussions&mdash;Community
   reading:
     - Determined by discussion leaders
   subjects:
+    - Planning for the week
     - Discussion 1
     - Discussion 2
 
-- topic: Student-led discussionse&emdash;Comparisons
+- topic: Student-led discussions&mdash;Comparisons
   reading:
     - Determined by discussion leaders
   subjects:
@@ -176,7 +181,7 @@
     - Discussion 5
     - Discussion 6
 
-- topic: Student-led discussions&emdash;Technology and Sports
+- topic: Student-led discussions&mdash;Technology and Sports
   reading:
     - Determined by discussion leaders
   subjects:
@@ -185,30 +190,39 @@
     - Discussion 9
     - Discussion 10
 
-- topic: Pause for breath
-
 - topic: Discussion debrief
   subjects:
     - Poster presentations
     - What makes a good discussion? revisited
+    - Other observations
+
+- topic: Editing and planning
+  subjects:
+    - Visit with Academic Advising partner
+    - Introduction edits
+    - Outline reviews
+  reading:
+    - Introductions
+    - Outlines
+    - Booth _et al._ Section III
+    
+- topic: Presentation planning
+  subjects:
+    - Presentation guidelines
+    - What makes a successful presentation?
+    - Presentations vs. papers
+    - More work on style
   reading:
     - Williams 5---Cohesion
     - Williams 6---Coherence
 
-- topic: Detour---Four Year Planning
+- topic: Work time
+  subjects: 
+    - Peer edits
+    - Organization exercise
+    - Free writing
   reading:
-    _ _TBD_
-    - Williams 7---Concision
-
-- topic: Presentation planning
-  reading:
-    _ _TBD_
-    - Williams 8---Concision
-
-- topic: TBD
-  reading:
-    _ _TBD_
-    - Williams 9---Elegance
+    _None_
 
 - topic: Student presentations (1)
   subjects:
@@ -216,6 +230,8 @@
     - Presentation 2
     - Presentation 3
     - Presentation 4
+  reading:
+    - _None_
 
 - topic: Student presentations (2)
   subjects:
@@ -223,14 +239,24 @@
     - Presentation 6
     - Presentation 7
     - Presentation 8
+  reading:
+    - _None_
 
 - topic: Student presentations (3)
   subjects:
     - Presentation 9
     - Presentation 10 
     - Peer editing
+  reading:
+    - Peer essays
 
 - topic: Presentation debrief
+  subjects:
+    - Presentation debrief
+    - Comparing presentations and papers
+    - Peer editing
+  reading:
+    - _None_
 
 - topic: Academic planning
 
@@ -238,4 +264,6 @@
 
 - topic: Stress management
 
-- topic: Debrief
+- topic: Wrapup / Celebration
+  reading:
+    - None
