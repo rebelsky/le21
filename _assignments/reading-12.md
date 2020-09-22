@@ -1,6 +1,6 @@
 ---
-title: Reading Assignment 10
-subtitle: Making and supporting claims
+title: Reading Assignment 12
+subtitle: Cohesion and coherence
 summary: |
   In this assignment, you will read and comment on a reading
   related to College-level writing.  
@@ -12,14 +12,19 @@ submitting: |
   Please post to the _Notes on Writing_ channel on our Team.
 link: true
 ---
-**Background**: We look at the structure of arguments.
+**Background**: We continue with Williams.
 
 **The Basics**: 
 
-1. Read/skim section III (Chapters 7--11) of _The Craft of Research_. 
+You know the drill.
 
-2. In the _Notes on Writing_ channel on Teams, post two important
-points from _The Craft of Research_ that you'd like to remember.
+1. Read Chapter 5 of _Style_.
+
+2. Read Chapter 6 of _Style_.
+
+3. In the _Notes on Writing_ channel on Teams, post two important
+points from each _Style_ chapter that you'd like to remember.  (You
+will post four points, two from each chapter.)
 
 **Audience**: Your audience for these notes is the rest of Tutorial.
 That is me, your fellow Tutorial students, our Writing Mentors, and
@@ -33,4 +38,5 @@ objectives](../handouts/objectives).
 * 2c\. Understand how scholarly writing differs from popular writing and the conventions appropriate to their audience, purpose, and medium
 
 **Anticipated uses**: We will use your work on this assignment in our
-broader discussions of the structure of research papers.
+broader discussions of writing.  We may also do an exercise based
+on this chapter of _Style_.

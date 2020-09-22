@@ -99,11 +99,13 @@
 - date: 2020-09-29
   due:
     - page: /assignments/reading-10.html
-      workload: 2 hours
+      workload: 1 hour
+    - page: /assignments/reading-11.html
+      workload: 1 hour
 
 - date: 2020-10-01
   due:
-    - page: /assignments/reading-11.html
+    - page: /assignments/reading-12.html
       workload: 1 hour
     - page: /assignments/writing-06.html
       workload: 2 hours
