@@ -9,7 +9,7 @@ collaboration: |
   with your colleagues about the content of the discussion or about
   design decisions in the diagram.
 submitting: |
-  Please enter your answers in the appropriate channels on Teams.
+  Please email your diagram to me.
 link: true
 ---
 **Background:** While we participate in a variety of discussions, we
