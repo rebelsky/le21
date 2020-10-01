@@ -14,18 +14,18 @@ purposes: |
 2. Write at least three concise (fifteen to twenty words) but interesting sentences about your topic.
 
 3. Make those sentences more verbose by applying some of the techniques that you learned.  Have fun with this!
-    * Redundant pairs (e.g., full and complete)
-    * Redundant modifiers (e.g., past memories)
-    * Redundant categories (e.g., shiny in appearance)
-    * Meaningless modifieres (e.g., basically, definitely)
-    * Pompous diction (e.g., utilize rather than use)
-    * Belaboring the obvious (e.g., engaged in the activity of learning)
+    * Redundant pairs (e.g., "full and complete")
+    * Redundant modifiers (e.g., "past memories")
+    * Redundant categories (e.g., "shiny in appearance")
+    * Meaningless modifieres (e.g., "basically, definitely")
+    * Pompous diction (e.g., "utilize" rather than "use")
+    * Belaboring the obvious (e.g., "engaged in the activity of learning")
     * Irrelevant detail.
-    * A phrase for a word (e.g., due to the fact that rather than because)
+    * A phrase for a word (e.g., "due to the fact that" rather than "because")
     * Metadiscourse (i.e., writing about your writing)
-    * Hedges (e.g., apparently, seemingly)
-    * Sequencers and topicalizers (e.g., In the next section,)
-    * Negating the negative (e.g., Don't write in the negative.)
+    * Hedges (e.g., "apparently", "seemingly")
+    * Sequencers and topicalizers (e.g., "In the next section,")
+    * Negating the negative (e.g., "Don't write in the negative.")
 
 4. Post three of your extended sentences to the shared document.
 
