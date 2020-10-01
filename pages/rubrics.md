@@ -15,3 +15,6 @@ some rubrics that you will use to assess yourself and others.
 
 [Feedback for discussion leaders](discussion-leader)
   : Basic feedback for discussion leaders.
+
+[Feedback for presenters](presentation)
+  : Structure, style, substance, and more.
