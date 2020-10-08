@@ -6,7 +6,8 @@ title: Feedback on presentations
 **Instructions**: Make a copy of these questions in an email message.
 Listen to the talk, potentially taking notes as you go.  Fill out the form.  
 On the short questions, use **plus** for _outstandingly_, **check** for
-_adequately_, and **minus** for _poorly_.  Add notes where appropriate.
+_adequately_, and **minus** for _poorly_.  You may also use **N/A** as
+applicable.  Add notes where appropriate.
 
 **Starting out**
 
@@ -18,19 +19,20 @@ c. Evaluator:
 
 d. What, in your view, is the *central point* of the presentation?
 
+e. Encapsulate your reaction to the presentation in four or five
+adjectives.
+
 **Structure**
 
-e. How well did the opening announce the central point? _____
+f. How well did the opening announce the central point or subject? _____
 
-f. How well did the closing leave the reader with a clear sense of the central point? _____
+g. How well did the closing leave the reader with a clear sense of the central point? _____
 
-g. How well did the presentation fit that point into a clear structure? _____
+h. How well did the presentation fit that point into a clear structure? _____
 
 **Style**
 
-h. How clear was the speaker (volume, pacing, etc)? _____
-
-i. How well did the speaker demonstrate appropriate skills in grammar? _____
+i. How clear was the speaker (volume, pacing, grammar, etc)? _____
 
 j. How well did the speaker manage their time? _____
 
