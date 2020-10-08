@@ -29,7 +29,7 @@ purposes: |
 
 4. Post three of your extended sentences to the shared document.
 
-5. Rewrite three of the extended sentences as assigned.
+5. Rewrite six of the extended sentences as assigned.
 
 6. Be prepared to share you sentences and any general thoughts with 
 the group.
