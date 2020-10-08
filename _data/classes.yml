@@ -226,34 +226,32 @@
 - topic: Student presentations (1)
   subjects:
     - Presentation 1
-    - Presentation 2
-    - Presentation 3
   reading:
     - _None_
 
 - topic: Student presentations (2)
   subjects:
+    - Presentation 2
+    - Presentation 3
     - Presentation 4
-    - Presentation 5
-    - Presentation 6
   reading:
     - _None_
 
 - topic: Student presentations (3)
   subjects:
+    - Presentation 5
+    - Presentation 6
     - Presentation 7
-    - Presentation 8
-    - Peer editing
   reading:
-    - Peer essay drafts
+    - _None_
 
 - topic: Student presentations (4)
   subjects:
+    - Presentation 8
     - Presentation 9
     - Presentation 10
-    - Peer editing
+    - _None_
   reading:
-    - Peer essay drafts
 
 - topic: Presentation debrief
   subjects:
@@ -261,13 +259,11 @@
     - Comparing presentations and papers
     - Peer editing
   reading:
-    - _None_
+    - _Style_ 7
 
 - topic: Managing time and stress and such
 
 - topic: Academic planning
-
-- topic: Stress management
 
 - topic: Wrapup / Celebration
   reading:
