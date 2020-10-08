@@ -42,9 +42,9 @@ Grading
       [Annotated bibliography](../assignments/writing-04) (10%)
     * Discussion leadership and [Self-reflective discussion essay](../assignments/writing-06) (10%)
     * [Discussion diagram](../assignments/misc-05) (10%)
-    * Research presentation (details forthcoming) (10%)
-    * [Research paper](../assignments/writing-0*), including [topic selection](../assignments/misc-06), [introduction and outline](../assignments/writing-05), [detailed outline](../assignments/misc-05), and [smooth draft](../assignments/writing-07) (10%)
-    * [Introduction to or cover for class anthology](../assignments/writing-09) (10%)
+    * [Research presentation](../assignments/misc-08) (10%)
+    * [Research paper](../assignments/writing-0*), including [topic selection](../assignments/misc-06), [introduction](../assignments/writing-05), [detailed outline](../assignments/misc-05), and [smooth draft](../assignments/writing-07) (10%)
+    * [Cover](../assignments/misc-09) and [table of contents](../assignments/misc-10) for class anthology (10%)
   : To compensate for the occasional lapse, I will drop the lowest of those ten grades. To reward particularly strong work, I will count the best of the grades (excluding talks and participation) twice.
   : Students who do not attend their weekly meetings with the instructor and writing mentor will have their grade reduced by one letter.
   : Grading Scale A : 93--100%
