@@ -117,6 +117,11 @@
     - page: /assignments/misc-08.html
       workload: 4 hours
 
+- date: 2020-10-12
+  due:
+    - page: /assignments/reading-13.html
+      workload: 1 hour
+
 - date: 2020-10-15
   due:
     - page: /assignments/writing-08.html
