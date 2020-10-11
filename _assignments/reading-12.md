@@ -39,4 +39,4 @@ objectives](../handouts/objectives).
 
 **Anticipated uses**: We will use your work on this assignment in our
 broader discussions of writing.  We may also do an exercise based
-on this chapter of _Style_.
+on these chapters of _Style_.
