@@ -6,9 +6,8 @@ summary: |
   imagined class anthology.
 audience: |
   Like your essays, you cover is intended for a general audience,
-   one that
-  has some understanding of American Higher education and is
-  interested in learning a bit more.  If you prefer, you might
+  one that has some understanding of American Higher education and
+  is interested in learning a bit more.  If you prefer, you might
   decide that your audience is primarily Grinnellians (alumni,
   students, staff and faculty, prospective students and parents).
 purpose: |
@@ -22,7 +21,7 @@ collaboration: |
   course materials. If you receive help from anyone, make sure to
   cite them in your responses.
 submitting: |
-  Please email your work to me before class.
+  Please email your work to me at least thirty minutes before class.
 link: true
 --- 
 As I've suggested, we will be assembling all of the papers from this
@@ -57,4 +56,12 @@ a Creative Commons license.
 
 Note that I have not asked you for a statement about your cover
 design. Most covers are supposed to stand on their own; yours should,
-too.
+too.  (If you think a cover statement would help, you may include
+one.)
+
+**Grading rubric**
+
+* Presents the breadth of topics included in the text (4 points).
+* Indicates that it's about liberal education and/or liberal arts (2 points).
+* Attractive; something someone might buy (or at least pick up on
+  a "free book" table) (2 points).
