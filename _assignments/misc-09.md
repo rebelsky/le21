@@ -51,8 +51,8 @@ a Creative Commons license.
 
 **What to turn in**:
 
-* (i) Your sketch of the cover
-* (ii) The final version of your cover
+* (i) The final version of your cover.
+* (ii) An optional statement about the cover.
 
 Note that I have not asked you for a statement about your cover
 design. Most covers are supposed to stand on their own; yours should,
@@ -61,7 +61,7 @@ one.)
 
 **Grading rubric**
 
-* Presents the breadth of topics included in the text (4 points).
-* Indicates that it's about liberal education and/or liberal arts (2 points).
+* Presents the breadth of topics included in the text (3 points).
+* Indicates that it's about liberal education, liberal arts, and/or Grinnell education (3 points).
 * Attractive; something someone might buy (or at least pick up on
   a "free book" table) (2 points).
